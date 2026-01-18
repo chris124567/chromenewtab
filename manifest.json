@@ -1,6 +1,4 @@
 {
-"update_url": "https://0.0.0.0",
-
   "name": "Blank New Tab Page",
   "description": "Override the default new tab page with blank page.",
   "version": "1.0",
@@ -12,5 +10,5 @@
       "128": "icon-128.png",
       "38": "icon-38.png"
    },
-  "manifest_version": 2
+  "manifest_version": 3
 }
